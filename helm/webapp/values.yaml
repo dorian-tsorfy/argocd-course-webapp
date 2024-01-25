@@ -8,7 +8,7 @@ image:
   repository: doriantsorfy/web-app-sample
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "9dbc07045cd3502b9863803b21356cd5ec2a93eb"
+  tag: 2c1cd372c8c1cf8975921c9f021d5ba293cd4a2b
 
 imagePullSecrets: []
 nameOverride: ""
